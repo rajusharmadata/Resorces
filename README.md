@@ -8,5 +8,7 @@
 | 2-3      | **Sorting & Recursion**        |            |
 | 3-4      | **backtracking &Recursion**    |            |
 | 4        | **leetcode question practice** |            |
- **Platforms for DSA**: LeetCode, Codeforces, CodeChef, HackerRank.
-  **Hackathons**: Regularly check Devpost and MLH for opportunities.
+
+
+  1. **Platforms for DSA**: LeetCode, Codeforces, CodeChef, HackerRank.
+  2. **Hackathons**: Regularly check Devpost and MLH for opportunities.
